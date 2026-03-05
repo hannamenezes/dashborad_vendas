@@ -190,7 +190,3 @@ with aba3:
 # streamlit run Dashboard.py
 
 
-
-#Visualização do Dataframe
-st.dataframe(dados)
-
